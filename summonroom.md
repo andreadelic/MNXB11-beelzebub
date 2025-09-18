@@ -1,0 +1,4 @@
+# Location for summoning: 
+The summoning could take place in the **GLuFS room**. It is a perfect environment since there are comfy sofas once he arrives and fun physicist discussions to be listened to.
+If this proves to be to difficult to realise one could consider **KC (KemiCentrum)** as well since the building is falling apart anyways already and also hospital wants to steal the space, so if there is a big summoning nothing could break that isn't already broken. Also we could acquire the help of *KERUB* since they are a cult anyways and can help with culty stuff. 
+One last alternative if we are really desperate is **Science Village**, nobody cares or likes that area anyways and i'm sure they would love to have a demon summoning since they can't get the students.
