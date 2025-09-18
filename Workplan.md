@@ -28,7 +28,6 @@ Near future.
 4. Write a demonic chant. -> Victor Done
 5. Write an application to Mayor of Lund to change Beelzebub name to Bibi Beez. Remember to notify Skatteverket. -> Kacper DONE
 6. Find accomodation for Bibi Beez and his flies. -> Andrea DONE
-7. Find one bug each for Him -> everyone
 
 ## Risks:
 He is a demon.
