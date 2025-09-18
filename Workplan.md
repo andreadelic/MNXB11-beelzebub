@@ -5,7 +5,7 @@
 2. Lasse Ulbricht
 3. Kyra Bohnen
 4. Andrea Delic
-5. Victor Hallberg
+5. Victor Hallberg 
 
 ## Goals and Objectives:
 1. Summon Beelzebub.
@@ -22,7 +22,7 @@ Near future.
 1. Make a list of needed resources. -> Kyra
 2. Buy the resources.
 3. Find, clean and decorate a suitable location. -> Lasse
-4. Write a demonic chant. -> Victor
+4. Write a demonic chant. -> Victor Done
 5. Write an application to Mayor of Lund to change Beelzebub name to Bibi Beez. Remember to notify Skatteverket. -> Kacper
 6. Find accomodation for Bibi Beez and his flies. -> Andrea
 7. Find one bug each for Him -> everyone
