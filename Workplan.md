@@ -3,7 +3,7 @@
 ## Project members:
 1. Kacper Opas
 2. Lasse Ulbricht
-3. Kyra Bohnen
+3. Kyra Bohnen DONE
 4. Andrea Delic
 5. Victor Hallberg
 
